@@ -1,2 +1,2 @@
-# customer-segmentation-using-GMM-Model
-Customer data segmentation using factor analysis and gaussian mixture models
+# gmm_customer_segmentation
+customer segmentation by Factor Analysis and GMM
